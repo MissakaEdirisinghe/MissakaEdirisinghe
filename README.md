@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me [Email](edrisinghemissaka@gmail.com) or [Whatsapp](https://wa.me/94762835063)
+- 📫 How to reach me [Email](mailto:edrisinghemissaka@gmail.com) or [Whatsapp](https://wa.me/94762835063)
 
 - ⚡ Fun fact **I Love meeting new people, eating food and gaming!**
 
