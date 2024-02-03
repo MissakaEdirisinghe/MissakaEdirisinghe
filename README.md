@@ -34,7 +34,7 @@
 #
 
 ### 📊 Stats
-![Missaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=missakaedirisinghe&show_icons=true&theme=gruvbox)
+<p ![Missaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=missakaedirisinghe&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missakaedirisinghe&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missakaedirisinghe&layout=compact) p>
 
