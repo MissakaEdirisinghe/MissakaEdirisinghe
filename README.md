@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/missakaedirisinghe">
-    <img src="" alt="Missaka Edirisinghe" /></a>
+    <img src="https://github.com/missakaedirisinghe/MissakaEdirisinghe/blob/main/Banner.png" alt="Missaka Edirisinghe" /></a>
 </p>
 
 <h3 align="center">Coder on a journey of innovation and problem-solving</h3>
